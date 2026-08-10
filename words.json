@@ -85,5 +85,15 @@
       "BLUE","RED","GREEN","PINK","GOLD","DARK","LIGHT","FAST","SLOW","COOL",
       "BIRD","FISH","FROG","BEAR","WOLF","LION","TIGER","MOUSE","HORSE","SNAKE"
     ]
+  },
+  {
+    "theme":"SHEEN THEME",
+    "desc" : "Cuz requested",
+    "content" : [
+      "SGEE","A","B","C","OK","MINK","HELLO","SAMURAI","CUTE","LARPER",
+      "ANGRI","MAD","AGRESSIVE","TSUNDERE","EXTROVERT","CHISMOSA","EAVESDROPPER",
+      "GOSSIPER","IDEALISTIC","SUPPORTIVE","FAM","RANDOM","WORD","BRUH","OKIEE",
+      "SIGE","ALRIGHT"
+    ]
   }
 ]
