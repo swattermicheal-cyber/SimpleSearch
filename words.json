@@ -40,7 +40,7 @@
       "ASMODEUS","STOLAS","ANDREALPHUS","CRIMSON","MAMMON","VASSAGO","BARBIE","SALLIE","WALLY","CHAZ",
       "IMP","DEMON","HELL","GREED","LUST","WRATH","GLUTTONY","ENVY","PRIDE","SLOTH",
       "GRIMOIRE","GOETIA","RING","SINS","CIRCUS","IMP","ASSASSIN","SUCCUBUS","HELLHOUND","OCTAVIA",
-      "OZZIE","FIZZ","BLITZ","STOLAS","ASTRAL","PORTAL","INFERNO"
+      "OZZIE","FIZZ","BLITZ","STOLAS","ASTRAL","PORTAL","INFERNO","SINSMAS"
     ]
   },
   {
@@ -105,8 +105,8 @@
     ]
   },
   {
-    "theme":"SLURS",
-    "desc":"Dont worry im black, jewish and asian",
+    "theme":"OFFENSES",
+    "desc":"These are words used to insult people",
     "content":[
       "CRACKER","SPIC","CHINK","KIKE","GRINGO","GOY","POLACK","WIGGER","YATI","MONGOLOID","MONGOLIAN","ALBANAID",
       "PAGPAG","PEJEET","MAJEET","GYPSY","MUTT","LIGHTHEAD","FAGGOT","DYKE","TRANNY","TROON","RETARD","CRIPPLE","DALIT"
