@@ -87,11 +87,19 @@
     ]
   },
   {
+    "theme":"ALPHABET",
+    "desc":"Relaxing one word ones",
+    "content":[
+      "A","B","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z",
+      "ABC","ADB","AHHH","UH","AM","PM","GH","MB","HM","AS","OI","UL"
+    ]
+  },
+  {
     "theme":"SHEEN THEME",
     "desc" : "Cuz requested",
     "content" : [
-      "SGEE","A","B","C","OK","MINK","HELLO","SAMURAI","CUTE","LARPER",
-      "ANGRI","MAD","AGRESSIVE","TSUNDERE","EXTROVERT","CHISMOSA","EAVESDROPPER",
+      "SGEE","A","B","C","OK","MINK","HELLO","SAMURAI","CUTE","LARPER","LIBRE","BIOLOGY","FISHBALL","MATCHA","COFFEE",
+      "ANGRI","MAD","AGRESSIVE","TSUNDERE","EXTROVERT","CHISMOSA","EAVESDROPPER","CHIKADORA",
       "GOSSIPER","IDEALISTIC","SUPPORTIVE","FAM","RANDOM","WORD","BRUH","OKIEE",
       "SIGE","ALRIGHT"
     ]
