@@ -103,5 +103,13 @@
       "GOSSIPER","IDEALISTIC","SUPPORTIVE","FAM","RANDOM","WORD","BRUH","OKIEE",
       "SIGE","ALRIGHT"
     ]
+  },
+  {
+    "theme":"OFFENSES",
+    "desc":"These are words used to insult people",
+    "content":[
+      "CRACKER","SPIC","CHINK","KIKE","GRINGO","GOY","POLACK","WIGGER","YATI","MONGOLOID","MONGOLIAN","ALBANAID",
+      "PAGPAG","PEJEET","MAJEET","GYPSY","MUTT","LIGHTHEAD","FAGGOT","DYKE","TRANNY","TROON","RETARD","CRIPPLE","DALIT"
+    ]
   }
 ]
