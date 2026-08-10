@@ -103,5 +103,14 @@
       "GOSSIPER","IDEALISTIC","SUPPORTIVE","FAM","RANDOM","WORD","BRUH","OKIEE",
       "SIGE","ALRIGHT"
     ]
+  },
+  {
+    "theme":"SLURS",
+    "desc":"Dont worry im black, jewish and asian",
+    "content":[
+      "CRACKER","SPIC","CHINK","KIKE","GRINGO","GOY","POLACK","WIGGER","YATI","MONGOLOID","MONGOLIAN","ALBANAID",
+      "PAGPAG","PEJEET","MAJEET","GYPSY","MUTT","LIGHTHEAD"
+    ]
   }
+  
 ]
