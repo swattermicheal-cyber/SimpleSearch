@@ -74,5 +74,16 @@
       "RIOTS","PURGE","DISSENT","OPPOSITION","GUILLOTINE","WAR","AGRARIANISM","DIPLOMACY","DIPLOMATIC","ELECTION","ELECTORY",
       "GOVERNMENT","SYSTEM","MAUISM","CLASSES","SOCIAL","RIGHTWING","LEFTWING"
     ]
+  },
+  {
+    "theme": "SHORT WORDS",
+    "desc": "Small words, big chaos!",
+    "content": [
+      "CAT","DOG","SUN","MOON","STAR","TREE","FIRE","RAIN","WIND","SNOW",
+      "BOOK","GAME","CODE","DATA","BYTE","LOOP","JAVA","RUST","CLOUD","WIFI",
+      "BALL","SHIP","CAR","BIKE","ROAD","CITY","HOME","DOOR","WALL","FLOOR",
+      "BLUE","RED","GREEN","PINK","GOLD","DARK","LIGHT","FAST","SLOW","COOL",
+      "BIRD","FISH","FROG","BEAR","WOLF","LION","TIGER","MOUSE","HORSE","SNAKE"
+    ]
   }
 ]
