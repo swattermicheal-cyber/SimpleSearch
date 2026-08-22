@@ -186,5 +186,21 @@
         "TEMPERATURE","RAINFALL","HUMIDITY","SUNNY","DAYLIGHT","SEASON","SPRING","SUMMER","DAY","NIGHT",
         "PHOTOTROPISM","GROW","GROWING","BLOOM","BLOOMING","GERMINATE","GERMINATION","ROOTED","LEAFY","VERDANT"
       ]
+    },
+    {
+      "theme":"VOX DEI",
+      "desc":"A declaration of holy war against Heaven.",
+      "content":[
+        "ANGEL","EXTERMINATION","SILENCE","SINNERS","SPEAKING",
+        "EMPOWERING","DECLARATION","HOLY","WAR","AWAKEN",
+        "PEOPLE","LIES","ANGELS","VISIT","BASKETS",
+        "BRINGING","DECIMATION","CAST","KING","HELL",
+        "FUROR","IMMENSE","AVATAR","CONSEQUENCE","OMEGA",
+        "FLOOD","NIGHTMARE","SPILLED","BLOOD","COWER",
+        "HIDE","FIND","ROPE","SWING","GOODBYES",
+        "LIVES","KINGDOM","KEEP","DOWN","ANYMORE",
+        "PAY","HEAVEN","MOTHERFUCKIN","SHOW","MEANS",
+        "PRAISE","VOX","DEI","REBEL","WARFARE"
+      ]
     }
 ]
