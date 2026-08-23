@@ -202,5 +202,37 @@
         "PAY","HEAVEN","MOTHERFUCKIN","SHOW","MEANS",
         "PRAISE","VOX","DEI","REBEL","WARFARE"
       ]
+    },
+    {
+      "theme":"JAPAN",
+      "desc":"The land of cherry blossoms and of course ANIME",
+      "content":[
+        "TOKYO","KYOTO","OSAKA","FUJI","NARA",
+        "SAKURA","SAMURAI","NINJA","SHOGUN","KATANA",
+        "ANIME","MANGA","OTAKU","KIMONO","YUKATA",
+        "RAMEN","SUSHI","TEMPURA","UDON","ONIGIRI",
+        "MATCHA","WASABI","TOFU","BENTO","MOCHI",
+        "TORII","SHRINE","TEMPLE","BUDDHA","ZEN",
+        "HONSHU","HOKKAIDO","OKINAWA","SHINKANSEN","YEN",
+        "GODZILLA","POKEMON","DRAGON","KABUKI","SUMO",
+        "KAMIKAZE","BUSHIDO","SHOGUNATE","HIROSHIMA","NAGASAKI",
+        "FUJIYAMA","AKIHABARA","MATSURI","ORIGAMI","SAKE"
+      ]
+    },
+    {
+      "theme":"CHINA",
+      "desc":"A vast civilization of ancient dynasties and dragons.",
+      "content":[
+        "BEIJING","SHANGHAI","NANJING","SHENZHEN","HONGKONG",
+        "DRAGON","PANDA","TIGER","PHOENIX","LOTUS",
+        "GREATWALL","FORBIDDEN","PALACE","TEMPLE","PAGODA",
+        "SILK","TEA","JADE","PORCELAIN","PAPER",
+        "DUMPLING","NOODLES","WONTON","DIMSUM","HOTPOT",
+        "CONFUCIUS","BUDDHA","TAOISM","QIGONG","KUNGFOO",
+        "HAN","TANG","MING","QING","DYNASTY",
+        "EMPEROR","MANDARIN","CALLIGRAPHY","FIREWORKS","COMPASS",
+        "GUNPOWDER","ABACUS","TERRACOTTA","YANGTZE","GOBI",
+        "EVEREST","HIMALAYAS","PANDAS","LANTERN","SPRING"
+      ]
     }
 ]
