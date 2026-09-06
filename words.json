@@ -238,5 +238,37 @@
         "GUNPOWDER","ABACUS","TERRACOTTA","YANGTZE","GOBI",
         "EVEREST","HIMALAYAS","PANDAS","LANTERN","SPRING"
       ]
+    },
+    {
+      "theme":"GOOGLE",
+      "desc":"Search, technology, information",
+      "content":[
+        "GOOGLE","SEARCH","CHROME","ANDROID","YOUTUBE",
+        "GMAIL","DRIVE","MAPS","PIXEL","PLAY",
+        "CLOUD","PHOTOS","DOCS","SHEETS","SLIDES",
+        "CALENDAR","MEET","TRANSLATE","GEMINI","AI",
+        "ALGORITHM","BROWSER","INTERNET","WEBSITE","SERVER",
+        "DATA","CODE","PYTHON","JAVASCRIPT",
+        "KEYBOARD","MOUSE","SCREEN","COMPUTER","LAPTOP",
+        "NETWORK","DATABASE","DIGITAL","TECHNOLOGY","SOFTWARE",
+        "HARDWARE","PROGRAM","SEARCHBAR","TAB","WINDOW",
+        "PASSWORD","ACCOUNT","EMAIL","VIDEO"
+      ]
+    },
+    {
+      "theme":"MINECRAFT",
+      "desc":"Cuz nostalgic, so why not?",
+      "content":[
+        "CREEPER","ZOMBIE","SKELETON","SPIDER","ENDERMAN",
+        "VILLAGER","WITCH","PILLAGER","BLAZE","GHAST",
+        "DRAGON","WITHER","PIG","COW","SHEEP",
+        "CHICKEN","HORSE","WOLF","CAT","AXOLOTL",
+        "DIAMOND","EMERALD","IRON","GOLD","REDSTONE",
+        "COAL","COPPER","NETHERITE","OBSIDIAN","BEDROCK",
+        "GRASS","DIRT","STONE","SAND","GRAVEL",
+        "WOOD","CRAFTING","FURNACE","CHEST","PICKAXE",
+        "SWORD","BOW","ARMOR","TORCH","PORTAL",
+        "NETHER","END","VILLAGE","BIOME"
+      ]
     }
 ]
