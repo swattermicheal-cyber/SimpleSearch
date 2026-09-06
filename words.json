@@ -270,5 +270,18 @@
         "SWORD","BOW","ARMOR","TORCH","PORTAL",
         "NETHER","END","VILLAGE","BIOME"
       ]
+    },
+    {
+      "theme":"MURDER DRONES",
+      "desc":"MURDER MURDER MURDER",
+      "content":[
+        "UZI","N","V","J","THAD","KHAN","DOLL","LIZZY","CYN","TESSA",
+        "JAMES","NORI","YEVA","MITCH","ALICE","SENTINEL","DRONE","WORKER",
+        "DISASSEMBLY","SOLVER","ABSOLUTE","COPPER9","JCJENSON","EARTH",
+        "OUTPOST","COLONY","BUNKER","FACTORY","MANSION","LABORATORY",
+        "REACTOR","WINGS","CLAW","TAIL","ANTENNA","CORE","OIL","CIRCUIT",
+        "PROGRAM","ROBOT","MACHINE","MURDER","HUNTER","KILLER","HUSK",
+        "REPAIR","MEMORY","VIRUS","DOOR","TURRET"
+      ]
     }
 ]
